@@ -6,11 +6,11 @@ This is a python application that quickly allows a user to determine their loan 
 
 ## Technologies
 
-[csv] - (https://docs.python.org/3/library/csv.html) used to create output file
-[sys] - (https://github.com/golang/sys) - used to exit after command
-[fire] - (https://github.com/google/python-fire) - used for generating CLIs from Python 
-[questionary] - (https://github.com/search?l=Python&q=questionary&type=Repositories) - used for interactive user responses
-[pytest] - (https://docs.pytest.org/en/6.2.x/) - used to test file saving, calculators and fileio
+*[csv] - (https://docs.python.org/3/library/csv.html) used to create output file
+*[sys] - (https://github.com/golang/sys) - used to exit after command
+*[fire] - (https://github.com/google/python-fire) - used for generating CLIs from Python 
+*[questionary] - (https://github.com/search?l=Python&q=questionary&type=Repositories) - used for *interactive user responses
+*[pytest] - (https://docs.pytest.org/en/6.2.x/) - used to test file saving, calculators and fileio
 
 ---
 
